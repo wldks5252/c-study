@@ -10,7 +10,7 @@ int main()
 	cout << "Second number>> ";
 	cin >> ber;
 	
-	cout << "===========°è»ê°á°ú==========="<< endl;
+	cout << "===========Â°Ã¨Â»ÃªÂ°Ã¡Â°Ãº==========="<< endl;
 	cout << "" << num << "+" << ber << "= " << (num + ber) << endl;
 	cout << "" << num << "-" << ber << "= " << (num - ber) << endl;
 	cout << "" << num << "*" << ber << "= " << (num * ber) << endl;
